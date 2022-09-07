@@ -1,5 +1,5 @@
-### startup_project
+# startup_project
 
-# Projet collaboratif 
+## Projet collaboratif 
 
-# A faire : ajouter un fichier `.gitignore`
+A faire : ajouter un fichier `.gitignore`
